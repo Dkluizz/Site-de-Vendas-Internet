@@ -35,7 +35,7 @@ function changeHeaderWhenScroll() {
 const scrollReveal = ScrollReveal({
   origin: 'top',
   distance: '30px',
-  duration: 680,
+  duration: 700,
   reset: true
 })
 
