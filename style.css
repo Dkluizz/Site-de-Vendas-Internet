@@ -531,6 +531,10 @@ footer .social a:hover {
     margin: 0 0;
   }
 
+  #home{
+    margin: 0;
+  }
+
   #home .image {
     order: 1;
   }
@@ -594,8 +598,8 @@ footer .social a:hover {
 
    .container {
     max-width: 900px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .section {
