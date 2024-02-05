@@ -262,7 +262,7 @@ nav.show div.icon-close {
   overflow: hidden;
   margin-left: 2rem;
   margin-righ: 2rem
-  margin-top: 1rem;
+  margin-top: -4rem;
 }
 
 #home .container {
@@ -553,8 +553,8 @@ footer .social a:hover {
   }
 
   .card {
-    padding-left: 3rem;
-    padding-right: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   /* testimonials */
@@ -593,9 +593,9 @@ footer .social a:hover {
     --subtitle-font-size: 1.125rem;
 
    .container {
-    max-width: 992px;
-    margin-left: auto;
-    margin-right: auto;
+    max-width: 900px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .section {
