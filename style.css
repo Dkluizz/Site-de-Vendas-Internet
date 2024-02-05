@@ -598,7 +598,7 @@ footer .social a:hover {
   }
 
   .section {
-    padding: 10rem 0;
+    padding: 5rem 0;
   }
 
   .button {
@@ -614,7 +614,7 @@ footer .social a:hover {
 
   nav .menu ul {
     display: flex;
-    gap: 2rem;
+    gap: 1rem;
   }
 
   nav .menu ul li a.title {
